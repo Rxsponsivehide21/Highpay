@@ -1,5 +1,5 @@
 // ---------- Config ----------
-const WHATSAPP_NUMBER = '256700000000';
+const WHATSAPP_NUMBER = '256753909564';
 const WHATSAPP_MESSAGE = "Hi HighPay, I'd like to sell USDT for cash. Can you help?";
 const UGX_PER_USD = 3700;
 const FEE_RATE = 0.02;
